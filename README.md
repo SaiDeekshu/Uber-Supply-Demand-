@@ -73,8 +73,9 @@ This project aims to analyze ride request data to understand these issues and pr
 
 ---
 
-## 📂 **Project Structure**
+## 📁 Project Structure
 
+```
 Uber-Supply-Demand-Analysis/
 │
 ├── Uber_Supply_Demand__project_.ipynb   # Main data analysis notebook
@@ -82,6 +83,8 @@ Uber-Supply-Demand-Analysis/
 ├── dataset.csv                          # Uber ride request dataset
 ├── requirements.txt                     # Project dependencies
 └── README.md                            # Project documentation
+```
+
 
 
 
