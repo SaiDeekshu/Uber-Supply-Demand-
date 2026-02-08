@@ -77,11 +77,12 @@ This project aims to analyze ride request data to understand these issues and pr
 
 Uber-Supply-Demand-Analysis/
 │
-├── Uber_Supply_Demand__project_.ipynb # Main data analysis notebook
-├── app.py # Streamlit dashboard application
-├── dataset.csv # Uber ride request dataset
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+├── Uber_Supply_Demand__project_.ipynb   # Main data analysis notebook
+├── app.py                               # Streamlit dashboard application
+├── dataset.csv                          # Uber ride request dataset
+├── requirements.txt                     # Project dependencies
+└── README.md                            # Project documentation
+
 
 
 ---
@@ -136,7 +137,7 @@ Uber-Supply-Demand-Analysis/
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/your-username/uber-supply-demand-analysis.git
+git clone https://github.com/SaiDeekshu/uber-supply-demand-analysis.git
 
 cd uber-supply-demand-analysis
 
