@@ -112,19 +112,7 @@ Uber-Supply-Demand-Analysis/
 - Location-wise cancellation rates  
 - Driver availability insights  
 
-### 5️⃣ Machine Learning
-- Feature selection  
-- Model building  
-- Performance evaluation  
 
-### 6️⃣ Dashboard Development
-- Built using **Streamlit**
-- Interactive filtering by:
-  - Time
-  - Pickup location
-  - Trip status  
-
----
 
 ## 📊 **Key Insights**
 
